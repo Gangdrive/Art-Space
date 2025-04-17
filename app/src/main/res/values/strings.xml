@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">Art Space</string>
-    <string name="artwork_title_1">Artwork Title 1</string>
-    <string name="artwork_artist_1_year_1">Artwork Artist 1(Year_1)</string>
+    <string name="artwork_title_1">Astronaut</string>
+    <string name="artwork_title_2">Planet</string>
+    <string name="artwork_title_3">Astronomy</string>
+    <string name="artwork_artist_1_year_1">Author: Niko(2011)</string>
+    <string name="artwork_artist_2_year_2">Author: Xantares(2020)</string>
+    <string name="artwork_artist_3_year_3">Author: Device(2024)</string>
+    <string name="btn_text_previous">Previous</string>
+    <string name="btn_text_next">Next</string>
 </resources>
